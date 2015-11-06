@@ -1,0 +1,22 @@
+{
+  "name": "contactapp",
+  "version": "0.0.1",
+  "description": "This is a contact list app using expressjs, angularjs, and nodejs",
+  "main": "angular.min.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddsooxo/Contact-App.git"
+  },
+  "author": "Dechen Chuteng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ddsooxo/Contact-App/issues"
+  },
+  "homepage": "https://github.com/ddsooxo/Contact-App#readme"
+}
